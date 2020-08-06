@@ -11,5 +11,5 @@ Live: https://product-survey-modal.herokuapp.com/
 3. cd client && npm install
 
 4. Open 2 Terminals
-  Server -> npm run server
-  Client -> cd client && npm start
+  - Server -> npm run server
+  - Client -> cd client && npm start
