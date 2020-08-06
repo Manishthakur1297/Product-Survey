@@ -4,10 +4,12 @@ Live: https://product-survey-modal.herokuapp.com/
 
 ## Steps to Run on Local
 
-git clone <repo>
-npm install
-cd client && npm install
+1. git clone <repo>
 
-Open 2 Terminals
-1. Server -> npm run server
-2. Client -> cd client && npm start
+2. npm install
+
+3. cd client && npm install
+
+4. Open 2 Terminals
+  Server -> npm run server
+  Client -> cd client && npm start
